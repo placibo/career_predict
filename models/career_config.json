@@ -1,0 +1,1 @@
+{"rnn_layers": 5, "rnn_size": 128, "input_length": 60, "bidirectional": true, "embedding_dims": 100, "name": "mevlana"}
